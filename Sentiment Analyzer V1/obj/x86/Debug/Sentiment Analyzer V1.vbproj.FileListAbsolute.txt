@@ -1,0 +1,27 @@
+C:\Users\Sandeep Kakde\AppData\Local\Temporary Projects\Sentiment Analyzer V1\bin\Debug\Sentiment Analyzer V1.exe
+C:\Users\Sandeep Kakde\AppData\Local\Temporary Projects\Sentiment Analyzer V1\bin\Debug\Sentiment Analyzer V1.pdb
+C:\Users\Sandeep Kakde\AppData\Local\Temporary Projects\Sentiment Analyzer V1\bin\Debug\Sentiment Analyzer V1.xml
+C:\Users\Sandeep Kakde\AppData\Local\Temporary Projects\Sentiment Analyzer V1\obj\x86\Debug\Sentiment_Analyzer_V1.Resources.resources
+C:\Users\Sandeep Kakde\AppData\Local\Temporary Projects\Sentiment Analyzer V1\obj\x86\Debug\Sentiment Analyzer V1.vbproj.GenerateResource.Cache
+C:\Users\Sandeep Kakde\AppData\Local\Temporary Projects\Sentiment Analyzer V1\obj\x86\Debug\Sentiment Analyzer V1.exe
+C:\Users\Sandeep Kakde\AppData\Local\Temporary Projects\Sentiment Analyzer V1\obj\x86\Debug\Sentiment Analyzer V1.xml
+C:\Users\Sandeep Kakde\AppData\Local\Temporary Projects\Sentiment Analyzer V1\obj\x86\Debug\Sentiment Analyzer V1.pdb
+C:\Users\Sandeep Kakde\AppData\Local\Temporary Projects\Sentiment Analyzer V1\obj\x86\Debug\Sentiment_Analyzer_V1.frmAnalyzer.resources
+C:\Users\Sandeep Kakde\AppData\Local\Temporary Projects\Sentiment Analyzer V1\obj\x86\Debug\Sentiment_Analyzer_V1.frmLogin.resources
+C:\Users\Sandeep Kakde\AppData\Local\Temporary Projects\Sentiment Analyzer V1\obj\x86\Debug\Sentiment_Analyzer_V1.frmRegister.resources
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\obj\x86\Debug\Sentiment Analyzer V1.exe
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\obj\x86\Debug\Sentiment Analyzer V1.xml
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\obj\x86\Debug\Sentiment Analyzer V1.pdb
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\obj\x86\Debug\Sentiment_Analyzer_V1.frmAnalyzer.resources
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\obj\x86\Debug\Sentiment_Analyzer_V1.frmLogin.resources
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\obj\x86\Debug\Sentiment_Analyzer_V1.frmRegister.resources
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\obj\x86\Debug\Sentiment_Analyzer_V1.Resources.resources
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\obj\x86\Debug\Sentiment Analyzer V1.vbproj.GenerateResource.Cache
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\bin\Debug\Sentiment Analyzer V1.exe
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\bin\Debug\Sentiment Analyzer V1.pdb
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\bin\Debug\Sentiment Analyzer V1.xml
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\bin\Debug\Db.accdb
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\bin\Debug\Sentiment Analyzer V1.exe.config
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\obj\x86\Debug\Sentiment_Analyzer_V1.frmAdmin.resources
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\obj\x86\Debug\Sentiment_Analyzer_V1.frmAbout.resources
+E:\Project\Source Code\Sentiment Analyzer V1\Sentiment Analyzer V1\obj\x86\Debug\Sentiment_Analyzer_V1.Splash Screen.resources
